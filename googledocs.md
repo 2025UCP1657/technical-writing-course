@@ -10,7 +10,7 @@ It also supports real-time collaboration, allowing several users to work on the 
 
 Google Docs is widely used in educational, professional, and collaborative settings for creating reports, assignments, and technical documents.
 
-<img src="googledocs-interface.png" width="600">
+<img src="google-docs-version-history.png" width="600">
 
 ## 2. Purpose of Google Docs
 The main objective of Google Docs is to make document creation, editing, and collaboration more convenient.
@@ -63,7 +63,8 @@ Important features include:
 - Recover an older version whenever required.
 - Rename specific versions to identify important stages of the document.
 
-<img src="google-docs-version-history.png" width="600">
+
+<img src="googledocs-interface.png" width="600">
 
 ## 7. Inserting Elements
 Google Docs supports the addition of various elements to improve the presentation and organisation of documents.
